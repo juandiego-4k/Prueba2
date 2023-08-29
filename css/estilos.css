@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+
+.parrafo1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.parrafo2{
+    background-color: blueviolet;
+    color: white;
+}
